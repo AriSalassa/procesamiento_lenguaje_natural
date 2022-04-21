@@ -1,5 +1,6 @@
 # Procesamiento del Lenguaje natural :speech_balloon:
 Este repositorio contiene ejercicios y material teórico práctico correspondiente al curso de NLP de la carrera de especialización en inteligencia artificial de la Universidad de Buenos Aires.
+[nlp](https://user-images.githubusercontent.com/34188162/164556965-d5b9f540-c417-4f84-a71e-d9729af6317f.png)
 
 ## Challenges :computer:
 ### Challenge N°1: word2vec
@@ -74,7 +75,8 @@ En este desafío, se implementa un **bot conversacional** utilizando una arquite
 ### [Clase 8](clase_8/README.md)
 * Cierre del curso
 * Deployment de servicio NLP
-* Flask, APIs
+* Flask, APIs!
+
 * Docker y Tensorflow Serving (TFX)
 
 # Profesores
